@@ -1,2 +1,2 @@
 # Modern-Discord
-Modern Stylus theme for discod
+Modern Stylus theme for discord
