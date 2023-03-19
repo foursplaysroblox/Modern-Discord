@@ -3,13 +3,13 @@ Modern Stylus theme for discord
 
 Currently works well (tested)
 
-Browsers 🌏
+Browsers 🌏 ✅
 Opera GX
 Microsoft Edge Dev
 
-Discord (tested) 💬
+Discord (tested) 💬 ✅
 Discord Stable
-Discord PTB
+Discord PTB ⚠️
 
 Not Tested Browsers: ❌
 Google Chrome
@@ -22,6 +22,7 @@ Works well but there are bugs (browsers) ⚠️
 Micorosft Edge Dev
 
 Works well but there are bugs (Dicord Versions) ⚠️
+Discord PTB
 
 Not Tested Discord Versions: ❌
 Discord Canary
