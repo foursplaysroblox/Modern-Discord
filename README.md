@@ -4,8 +4,8 @@ Modern Stylus theme for discord
 Currently works well (tested)
 
 Browsers 🌏 ✅
-Opera GX
-Microsoft Edge Dev
+1. Opera GX
+2. Microsoft Edge Dev
 
 Discord (tested) 💬 ✅
 Discord Stable
