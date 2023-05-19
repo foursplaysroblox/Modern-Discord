@@ -26,3 +26,32 @@ Works well but there are bugs (Dicord Versions) ⚠️
 
 Not Tested Discord Versions: ❌
 1. Discord Canary
+
+Extra Tweaks: 
+If you want the shadow and remove the black color for the user pannel paste this css code
+
+/* Rounded User Panel */
+.panels-3wFtMD {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border: 1px solid var(--background-modifier-accent);
+  border-radius: 20px;
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.45);
+}
+
+.theme-dark .container-YkUktl,
+.container-1zzFcN,
+.theme-dark .panel-2ZFCRb {
+  background-color: transparent !important;
+}
+
+.panels-3wFtMD .container-YkUktl .flex-2S1XBF {
+  margin-left: -10px;
+}
+
+.theme-dark .container-YkUktl,
+.container-1zzFcN,
+.theme-dark .panel-2ZFCRb {
+  background-color: transparent !important;
+}
